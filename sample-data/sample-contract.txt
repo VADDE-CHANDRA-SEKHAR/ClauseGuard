@@ -1,0 +1,16 @@
+MASTER SERVICE AGREEMENT
+
+This Agreement is entered into as of March 1, 2025 ("Effective Date") between
+Northwind Analytics Inc. ("Vendor") and Customer.
+
+Term: This Agreement shall remain in effect for an initial term of twelve (12) months
+from the Effective Date ("Initial Term"), expiring February 28, 2026.
+
+Auto-Renewal: This Agreement shall automatically renew for successive twelve (12) month
+terms unless either party provides written notice of non-renewal at least twenty (20)
+days prior to the end of the then-current term. Failure to provide timely notice will
+result in automatic renewal at a 12% price increase over the prior term's fees.
+
+Termination: Either party may terminate this Agreement for cause upon thirty (30) days
+written notice if the other party materially breaches any provision and fails to cure
+such breach within the notice period.
